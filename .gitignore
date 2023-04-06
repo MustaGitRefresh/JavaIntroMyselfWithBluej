@@ -2,3 +2,6 @@
 *.bluej
 *.ctxt
 *.TXT
+.idea
+out
+MySelfJavaLearn.iml

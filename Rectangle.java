@@ -20,7 +20,7 @@ public class Rectangle
     }
     
     public void Display(){
-        System.out.println("The lenght of the rectangle is = " + length);
+        System.out.println("The length of the rectangle is = " + length);
         System.out.println("The breadth of the rectangle is = " + breadth);
         System.out.println("The area of the rectangle is = " + area);
     }
