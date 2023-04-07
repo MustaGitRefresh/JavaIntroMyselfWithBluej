@@ -8,5 +8,6 @@ public class Escape_Sequence {
         b = 16;
         System.out.println("2 The use of backslash n separated by +");
         System.out.println("First number = " + a + "\n" + "second number = " + b + "\n" + "Sum = " + (a+b));
+        System.out.println('M');
     }
 }
