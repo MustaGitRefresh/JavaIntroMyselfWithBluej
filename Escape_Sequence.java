@@ -15,7 +15,5 @@ public class Escape_Sequence {
         System.out.println(max);
         c = 'B';
         System.out.println(c);
-        c = 'D';
-        System.out.println(c);
     }
 }
